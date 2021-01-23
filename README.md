@@ -1,0 +1,2 @@
+# sorumluluksuz
+Bir sadeleşme yolculuğu.
